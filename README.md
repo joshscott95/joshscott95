@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshscott95
-- 👀 I’m interested in understanding the basics of programming
-- 🌱 I’m currently learning how to use git
+- 👀 I’m interested in understanding front end-development
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js & React.
 - 💞️ I’m looking to collaborate on nothing at the moment
 
 <!---
